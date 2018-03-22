@@ -1,0 +1,6 @@
+{
+  "cmd": ["pandoc -f markdown \"$file\" --template=\"/home/raphael/pandoc-templates/default.latex\" -o \"$file_base_name.md.pdf\" && evince \"$file.pdf\""],
+  "shell": true,
+  "selector": "text.html.markdown",
+  "path": "/usr/local/texlive/2015/bin/x86_64-linux:$PATH"
+}
