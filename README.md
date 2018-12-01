@@ -1,4 +1,4 @@
-# Type in *Markdown*, use the power of *LaTeX*, render in *PDF*, All-in-one.
+# Type in *Markdown*, use the power of *LaTeX*, render in *PDF*. All-in-one.
 _Using sublime text build system._
 
 **Very useful to write small reports, usually less than 10 pages.
