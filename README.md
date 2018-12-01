@@ -4,7 +4,7 @@ _Using sublime text build system._
 **Very useful to write small reports, usually less than 10 pages.
 It behaves just as you expect.**
 
-![markdown-to-pdf-screeshot](https://user-images.githubusercontent.com/9111357/49322452-07909d80-f510-11e8-8f05-f3c3abc786c4.png)
+![markdown-to-pdf-screeshot](https://user-images.githubusercontent.com/9111357/49322573-de244180-f510-11e8-9e4a-92b2272729ba.png)
 
 ## Install it
 
