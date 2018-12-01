@@ -1,7 +1,7 @@
 # Type in *Markdown*, use the power of *LaTeX*, render in *PDF*. All-in-one.
 _Using sublime text build system._
 
-**Very useful to write small reports, usually less than 10 pages.
+**Very useful to write small reports, usually less than 20 pages.
 It behaves just as you expect.**
 
 ![markdown-to-pdf-screeshot](https://user-images.githubusercontent.com/9111357/49322573-de244180-f510-11e8-9e4a-92b2272729ba.png)
